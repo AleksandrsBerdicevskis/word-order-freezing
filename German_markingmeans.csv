@@ -1,0 +1,34 @@
+argcase	verb
+15670	24617
+subjcase	objcase	verb_number	verb_gender
+7736	9385	24617	0
+
+subjcase	objcase	verb_number	verb_gender	count
+no	no	yes	no	18978
+no	no	no	no	18725
+yes	no	yes	no	3212
+yes	yes	no	no	1357
+no	yes	no	no	5601
+yes	no	no	no	3073
+no	yes	yes	no	2333
+yes	yes	yes	no	94
+
+argcase	verb	count
+no	yes	18978
+no	no	18725
+yes	yes	5639
+yes	no	10031
+
+53373
+
+subject	object	verb	count
+no	no	yes	18978
+no	no	no	18725
+yes	no	yes	3212
+yes	yes	no	1357
+no	yes	no	5601
+yes	no	no	3073
+no	yes	yes	2333
+yes	yes	yes	94
+
+53373
